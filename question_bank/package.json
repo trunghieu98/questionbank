@@ -1,0 +1,75 @@
+{
+  "name": "question_bank",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@blowstack/ckeditor5-full-free-build": "^23.1.0",
+    "@ckeditor/ckeditor5-build-classic": "^23.1.0",
+    "@ckeditor/ckeditor5-react": "^2.1.0",
+    "@syncfusion/ej2-react-documenteditor": "^18.4.31",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@wiris/mathtype-ckeditor5": "^7.24.4",
+    "axios": "^0.21.0",
+    "bootstrap": "^4.5.2",
+    "ckeditor4-react": "^1.2.0",
+    "ckeditor5-classic-with-mathtype": "^1.0.0",
+    "cors": "^2.8.5",
+    "draft-js": "^0.11.7",
+    "express": "^4.17.1",
+    "jspdf": "^2.2.0",
+    "moment": "^2.29.1",
+    "mysql2": "^2.2.5",
+    "react": "^16.13.1",
+    "react-bar-chart": "^0.1.2",
+    "react-bootstrap-table-next": "^4.0.3",
+    "react-bootstrap-table2-overlay": "^2.0.0",
+    "react-countdown": "^2.3.1",
+    "react-dom": "^16.13.1",
+    "react-draft-wysiwyg": "^1.14.5",
+    "react-element-to-string": "^1.0.2",
+    "react-html-parser": "^2.0.2",
+    "react-mathjax": "^1.0.1",
+    "react-mathjax-preview": "^2.1.3",
+    "react-moment": "^1.1.1",
+    "react-pdf": "^5.1.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.4",
+    "react-slideshow-image": "^3.4.3",
+    "react-to-print": "^2.12.1",
+    "recharts": "^1.8.5",
+    "sequelize": "^6.3.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {
+    "@ckeditor/ckeditor5-alignment": "^23.0.0",
+    "raw-loader": "^4.0.2",
+    "sequelize-cli": "^6.2.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
